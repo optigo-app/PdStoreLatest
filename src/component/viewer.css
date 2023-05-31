@@ -1,0 +1,54 @@
+body {
+  /* overflow: hidden; */
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: white;
+}
+
+#mcanvas {
+  width: 100%;
+  height: 96vh !important;
+  z-index: -1;
+}
+#canvasContainer {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  z-index: 5;
+}
+#mconfigurator {
+  position: absolute;
+  top: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+.variations {
+  margin-top: 20px;
+  display: flex;
+  gap: 0.25rem;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: rgb(36, 36, 36);
+  color: white;
+  width: 60%;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  padding: 10px;
+}
+.variations img {
+  height: 2rem;
+  width: 2rem;
+}
+.variations > div > button {
+  border: 0;
+  background-color: transparent;
+}
+
+.variations > div {
+  display: flex;
+  flex-wrap: wrap;
+}

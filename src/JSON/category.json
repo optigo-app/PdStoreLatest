@@ -1,0 +1,31 @@
+{
+    "rightside": [
+        "cat1.jpg",
+        "cat2.jpg",
+        "cat3.jpg",
+        "cat4.jpg",
+        "cat5.jpg"
+    ],
+    "shape": [
+        {
+            "image": "shape1.gif",
+            "name": "Round"
+        },
+        {
+            "image": "shape2.gif",
+            "name": "Princess"
+        },
+        {
+            "image": "shape3.gif",
+            "name": "Radiant"
+        },
+        {
+            "image": "shape4.gif",
+            "name": "Emrald"
+        },
+        {
+            "image": "shape5.gif",
+            "name": "Cushion"
+        }
+    ]
+}

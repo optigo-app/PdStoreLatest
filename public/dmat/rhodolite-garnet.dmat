@@ -1,0 +1,28 @@
+{
+  "name": "rhodolite-garnet",
+  "uuid": "45197D38-9789-473C-84BC-C966D5848630",
+  "color": 12582930,
+  "envMapIntensity": 1,
+  "dispersion": 0,
+  "squashFactor": 0.98,
+  "geometryFactor": 0.5,
+  "gammaFactor": 1,
+  "absorptionFactor": 1.3,
+  "reflectivity": 0.2,
+  "refractiveIndex": 1.76,
+  "rayBounces": 5,
+  "diamondOrientedEnvMap": 0,
+  "boostFactors": {
+    "x": 1.1,
+    "y": 0.9,
+    "z": 0.8,
+    "isVector3": true
+  },
+  "transmission": 0,
+  "isDiamondMaterialParameters": true,
+  "type": "DiamondMaterial",
+  "userData": {
+    "separateEnvMapIntensity": true,
+    "uuid": "45197D38-9789-473C-84BC-C966D5848630"
+  }
+}

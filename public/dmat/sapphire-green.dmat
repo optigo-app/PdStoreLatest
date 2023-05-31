@@ -1,0 +1,28 @@
+{
+  "name": "sapphire-green",
+  "uuid": "45197D38-9789-473C-84BC-C966D5848630",
+  "color": 2409859,
+  "envMapIntensity": 1,
+  "dispersion": 0,
+  "squashFactor": 0.98,
+  "geometryFactor": 0.5,
+  "gammaFactor": 1,
+  "absorptionFactor": 0.65,
+  "reflectivity": 0.5,
+  "refractiveIndex": 2.17,
+  "rayBounces": 5,
+  "diamondOrientedEnvMap": 0,
+  "boostFactors": {
+    "x": 0.7,
+    "y": 1.13,
+    "z": 1.1,
+    "isVector3": true
+  },
+  "transmission": 0,
+  "isDiamondMaterialParameters": true,
+  "type": "DiamondMaterial",
+  "userData": {
+    "separateEnvMapIntensity": true,
+    "uuid": "45197D38-9789-473C-84BC-C966D5848630"
+  }
+}
